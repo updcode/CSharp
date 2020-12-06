@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\GeekBrains C Sharp\HomeWork_01_Derushko_Pavel\bin\Debug\HomeWork_01_Derushko_Pavel.exe.config
+C:\Users\User\source\repos\GeekBrains C Sharp\HomeWork_01_Derushko_Pavel\bin\Debug\HomeWork_01_Derushko_Pavel.exe
+C:\Users\User\source\repos\GeekBrains C Sharp\HomeWork_01_Derushko_Pavel\bin\Debug\HomeWork_01_Derushko_Pavel.pdb
+C:\Users\User\source\repos\GeekBrains C Sharp\HomeWork_01_Derushko_Pavel\obj\Debug\HomeWork_01_Derushko_Pavel.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GeekBrains C Sharp\HomeWork_01_Derushko_Pavel\obj\Debug\HomeWork_01_Derushko_Pavel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GeekBrains C Sharp\HomeWork_01_Derushko_Pavel\obj\Debug\HomeWork_01_Derushko_Pavel.exe
+C:\Users\User\source\repos\GeekBrains C Sharp\HomeWork_01_Derushko_Pavel\obj\Debug\HomeWork_01_Derushko_Pavel.pdb
